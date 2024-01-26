@@ -1,0 +1,37 @@
+{
+  "locations": {
+    "начало": {
+      "photo_path": "media/Фото/location1.png"
+    },
+    "локация1": {
+      "photo_path": "media/Фото/location2.png"
+    },
+    "локация2": {
+      "photo_path": "media/Фото/location3.png"
+    },
+    "локация3": {
+      "photo_path": "media/Фото/location4.png"
+    },
+    "локация4": {
+      "photo_path": "media/Фото/location5.png"
+    },
+    "локация5": {
+      "photo_path": "media/Фото/location6.png"
+    },
+    "локация6": {
+      "photo_path": "media/Фото/location7.png"
+    },
+    "локация7": {
+      "photo_path": "media/Фото/location8.png"
+    },
+    "локация8": {
+      "photo_path": "media/Фото/location9.png"
+    },
+    "локация9": {
+      "photo_path": "media/Фото/location10.png"
+    },
+    "локация10": {
+      "photo_path": "media/Фото/location11.png"
+    }
+  }
+}
