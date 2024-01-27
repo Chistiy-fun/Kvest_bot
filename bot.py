@@ -45,11 +45,17 @@ class BotGame(Game):
 
     def send_message_with_photo(self, chat_id, text, photo_path=None):
         if photo_path:
-            photo = open(photo_path, 'rb')
-            bot.send_photo(chat_id, photo, caption=text)
-            photo.close()
+            bot.send_photo(chat_id, photo_path, caption=text)
         else:
             bot.send_message(chat_id, text)
+
+    def output_actions(self):
+        location = self.player.location
+        markup = answers_with_choice(location.actions.keys())
+
+        # Отправляем фотографию и описание локации
+        self.send_message_with_photo(self.player.id, location.description, location.photo_path)
+        bot.send_message(self.player.id, "Выберите действие:", reply_markup=markup)
 
     def __str__(self):
         return f'BotGame(player={self.player})'

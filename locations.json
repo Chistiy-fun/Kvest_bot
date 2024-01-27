@@ -6,7 +6,7 @@
         "Пойти налево": "локация1",
         "Пойти направо": "локация2"
       },
-      "photo_path": "media/Фото/location1.png"
+      "photo_path": "https://disk.yandex.ru/i/PxHmVfViI-Vqjg"
     },
     "локация1": {
       "description": "Путь налево привел вас к древнему заброшенному храму. Внутри темно, но вы слышите странные шепоты. \uD83C\uDFDB\uFE0F\uD83D\uDC7B",
@@ -14,7 +14,7 @@
         "Исследовать храм": "локация3",
         "Вернуться в лес": "начало"
       },
-      "photo_path": "media/Фото/location2.png"
+      "photo_path": "https://disk.yandex.ru/i/1i_1T3JuyVekXw"
     },
     "локация2": {
       "description": "Ваш путь направо привел вас к мрачной пещере. Внутри чувствуется зловещая атмосфера. \uD83D\uDD73\uFE0F\uD83D\uDE31",
@@ -22,7 +22,7 @@
         "Исследовать пещеру": "локация4",
         "Вернуться в лес": "начало"
       },
-      "photo_path": "media/Фото/location3.png"
+      "photo_path": "https://disk.yandex.ru/i/YuAPrbkn9tLWbw"
     },
     "локация3": {
       "description": "В храме вы обнаруживаете загадочный алтарь. Перед вами появляется призрачный страж, который предлагает вам выбор. \uD83D\uDC7B\uD83D\uDE4F",
@@ -30,7 +30,7 @@
         "Пожертвовать что-то алтарю": "локация5",
         "Попросить о помощи": "локация6"
       },
-      "photo_path": "media/Фото/location4.png"
+      "photo_path": "https://disk.yandex.ru/i/YuAPrbkn9tLWbw"
     },
     "локация4": {
       "description": "Пещера полна странных символов на стенах. В конце туннеля вы видите свет, проникающий через щель. \uD83C\uDF1F\uD83D\uDD2E",
@@ -38,7 +38,7 @@
         "Пройти через щель": "локация5",
         "Вернуться в лес": "локация1"
       },
-      "photo_path": "media/Фото/location5.png"
+      "photo_path": "https://disk.yandex.ru/i/MO0Nz8lgEjFP8w"
     },
     "локация5": {
       "description": "Вы оказываетесь в мистической комнате с порталом. Перед вами открываются новые возможности. ✨\uD83D\uDEAA",
@@ -46,14 +46,14 @@
         "Пройти через портал": "локация7",
         "Исследовать комнату": "локация8"
       },
-      "photo_path": "media/Фото/location6.png"
+      "photo_path": "https://disk.yandex.ru/i/EytLk2ElSC_TRg"
     },
     "локация6": {
       "description": "Страж помогает вам разгадать древние тайны. Вы получаете знание, но ваше приключение продолжается. \uD83E\uDDD9\u200D♂\uFE0F\uD83D\uDCDA",
       "actions": {
         "Вернуться в лес": "локация1"
       },
-      "photo_path": "media/Фото/location7.png"
+      "photo_path": "https://disk.yandex.ru/i/aMNxfyiKtFejwA"
     },
     "локация7": {
       "description": "Вы пересекли портал и оказались в другом измерении. Вас окружают невероятные видения и силы. \uD83C\uDF0C\uD83D\uDCAB",
@@ -61,7 +61,7 @@
         "Исследовать новое измерение": "локация8",
         "Вернуться через портал": "локация5"
       },
-      "photo_path": "media/Фото/location8.png"
+      "photo_path": "https://disk.yandex.ru/i/9x5tFcsj6RYp5Q"
     },
     "локация8": {
       "description": "Вам открываются врата к миру теней. Здесь ваши решения будут иметь долгосрочные последствия. \uD83C\uDF11\uD83D\uDEAA",
@@ -69,12 +69,12 @@
         "Принять свою тень": "локация9",
         "Сразиться с тьмой": "локация10"
       },
-      "photo_path": "media/Фото/location9.png"
+      "photo_path": "https://disk.yandex.ru/i/Wa14-tQ9Lb2eQg"
     },
     "локация9": {
       "description": "Вы освоили свою тень и стали мастером темных искусств. Теперь вы властен над миром теней. \uD83C\uDF11\uD83D\uDD2E",
       "actions": {},
-      "photo_path": "media/Фото/location10.png"
+      "photo_path": "https://disk.yandex.ru/i/KZTvLq-Yy28C3w"
     },
 
 
@@ -82,7 +82,7 @@
     "локация10": {
       "description": "Сражение с тьмой оказалось слишком трудным. \uD83D\uDE14 Вас поглотила тень, и ваше приключение завершилось. \uD83D\uDC94",
       "actions": {},
-      "photo_path": "media/Фото/location11.png"
+      "photo_path": "https://disk.yandex.ru/i/tFb3yFv0yKHX1Q"
     }
 
   }
